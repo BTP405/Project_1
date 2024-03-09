@@ -3,8 +3,8 @@
 ### Please use the following template to add a ReadMe for your repo.
 
 ## 1. Project Title and Description
-    - Title: Provide a clear and concise title for your project.
-    - Description: Give a brief overview of what your project does and its purpose.
+    - Title: Nail Salon Booking System
+    - Description: This project is a nail salon booking system. The purpose of this application is for clients to securely book their appointments with the salon. This booking system is very intuitive and easy to understand. Users are able to fill in their personal information and select their nail technician, appointment date and time and the type of nail service. This application is also capable of updating the information of the customer.
 ## 2. Installation
     - Dependencies: List any dependencies or prerequisites required to use your project.
     - Installation Instructions: Provide step-by-step instructions on how to install and set up your project.
@@ -51,7 +51,7 @@ Methods :
     - Guidelines: Explain how others can contribute to your project, including information on submitting bug reports, feature requests, or code contributions.
     - Code Style: If applicable, provide guidelines or references to your code style.
 ## 6. Credits
-    - Authors: List the authors or contributors of the project.
+    - Authors: Arlene Pham, Henry Phan, Alyssa Gamelo
     - Acknowledgments: Mention any individuals or resources that helped inspire or support your project.
 ## 7. License
     - License Information: Specify the license under which your project is distributed.
